@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 This is third change.
 Adding for rebase example.
+Adding another change after rebasing.
 
 ## Purpose
 
