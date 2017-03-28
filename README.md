@@ -18,4 +18,4 @@ another change
 
 ### Add copyright
 
-All right reserved.
+All right reserved......
