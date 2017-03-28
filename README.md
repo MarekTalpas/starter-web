@@ -17,3 +17,5 @@ this is second change
 another change
 
 ### Add copyright
+
+All right reserved.
