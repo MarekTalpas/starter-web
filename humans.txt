@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 # change for rebase on master
+# please leave some review if you like this course
 
 # TEAM
 
